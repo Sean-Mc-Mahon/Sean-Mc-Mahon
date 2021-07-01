@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-five-gules.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mctastic?si=dd6db5107c0e4729)
+[<img src="novatorem-131hqyefp-sean-mc-mahon.vercel.app/api/spotify-playing" alt="McTastic Spotify Playing" width="350" />](https://open.spotify.com/user/mctastic?si=dd6db5107c0e4729)
 
 ### Connect with me:
 
