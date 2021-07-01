@@ -17,6 +17,8 @@
 
 [<img src="novatorem-131hqyefp-sean-mc-mahon.vercel.app/api/spotify-playing" alt="McTastic Spotify Playing" width="350" />](https://open.spotify.com/user/mctastic?si=dd6db5107c0e4729)
 
+[![Spotify](https://novatorem-five.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
