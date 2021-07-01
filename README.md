@@ -1,6 +1,6 @@
 <img src="https://github.com/Sean-Mc-Mahon/Sean-Mc-Mahon/blob/master/seanmc.gif" alt="sean mc">
 
-### Hi, I'm Sean 👋
+## Hi, I'm Sean, Front-End Web-Dev 👋
 
 ## My Favourite Projects
 
@@ -15,7 +15,7 @@
 - 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.
 - 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know
 
-## Interests both tech and otherwise
+## Interests, both tech and otherwise
 
 - 🔭 I recently completed [Code Institute's](https://codeinstitute.net/) Full-Stack Diploma in Software Development
 - 🌱 I’m currently supplementing this knowledge with a course in React by [Dev Ed](https://developedbyed.com/)
