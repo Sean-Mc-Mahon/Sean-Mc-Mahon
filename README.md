@@ -20,6 +20,7 @@
 - 🔭 I recently completed [Code Institute's](https://codeinstitute.net/) Full-Stack Diploma in Software Development
 - 🌱 I’m currently supplementing this knowledge with a course in React by [Dev Ed](https://developedbyed.com/)
 - 🥅 2021 Goals: Break into the exciting world of Front-End Development and contribute more to Open Source projects and hackathons
+- 🎨 I love designing in all forms and mediums, from [custom furniture](https://sean-mc-mahon.github.io/ms2-seanmcmahon-digital-design/furniture.html) to [digital portraits](https://sean-mc-mahon.github.io/ms2-seanmcmahon-digital-design/portraits.html)
 - 🐱 For the past year I have been fostering cats with Phobsboro Cat Rescue
 - ⚽ I regularly play soccer and play all kinds of sports
 - 🎭 I attend weekly acting classes
