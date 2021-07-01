@@ -14,10 +14,10 @@
 - 🎭 I attend weekly acting classes 
 
 ### Spotify Playing 🎧
+<!-- 
+[<img src="novatorem-131hqyefp-sean-mc-mahon.vercel.app/api/spotify-playing" alt="McTastic Spotify Playing" width="350" />](https://open.spotify.com/user/mctastic?si=dd6db5107c0e4729) -->
 
-[<img src="novatorem-131hqyefp-sean-mc-mahon.vercel.app/api/spotify-playing" alt="McTastic Spotify Playing" width="350" />](https://open.spotify.com/user/mctastic?si=dd6db5107c0e4729)
-
-[![Spotify](https://novatorem-five.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-eta-ivory.vercel.app/api/spotify)](https://open.spotify.com/user/mctastic?si=2e145f3e24364149)
 
 ### Connect with me:
 
