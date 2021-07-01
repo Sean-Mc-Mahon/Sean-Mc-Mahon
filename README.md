@@ -15,12 +15,11 @@
 - 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.
 - 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know
 
-## I'm a Front-End Developer and Digital Designer
+## Interests both tech and otherwise
 
-- 🔭 I recently completed Code Institute's Full-Stack Diploma in Software Development
-- 🌱 I’m currently supplementing this knowledge with a course in React from developedbyed.com
-- 👯 I’m looking to collaborate with other content creators and designers
-- 🥅 2021 Goals: Break into the exciting world of Front-End Develpemnt and contribute more to Open Source projects
+- 🔭 I recently completed [Code Institute's](https://codeinstitute.net/) Full-Stack Diploma in Software Development
+- 🌱 I’m currently supplementing this knowledge with a course in React by [Dev Ed](https://developedbyed.com/)
+- 🥅 2021 Goals: Break into the exciting world of Front-End Development and contribute more to Open Source projects and hackathons
 - 🐱 For the past year I have been fostering cats with Phobsboro Cat Rescue
 - ⚽ I regularly play soccer and play all kinds of sports
 - 🎭 I attend weekly acting classes
@@ -31,8 +30,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sean McMahon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+Feel free to connect with me on [linkedin](https://www.linkedin.com/in/sean-mcmahon-profile/)
 <br />
 
 ### Languages and Tools:
