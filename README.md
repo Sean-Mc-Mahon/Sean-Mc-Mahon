@@ -1,14 +1,16 @@
+<img src="https://github.com/Sean-Mc-Mahon/Sean-Mc-Mahon/blob/master/seanmc.gif" alt="sean mc">
+
 ### Hi, I'm Sean 👋
 
 ## I'm a Front-End Developer and Digital Designer
 
-- 🔭 I recently completed Code Institute's Full-Stack Diploma in Software Development 
+- 🔭 I recently completed Code Institute's Full-Stack Diploma in Software Development
 - 🌱 I’m currently supplementing this knowledge with a course in React from developedbyed.com
 - 👯 I’m looking to collaborate with other content creators and designers
 - 🥅 2021 Goals: Break into the exciting world of Front-End Develpemnt and contribute more to Open Source projects
 - 🐱 For the past year I have been fostering cats with Phobsboro Cat Rescue
 - ⚽ I regularly play soccer and play all kinds of sports
-- 🎭 I attend weekly acting classes 
+- 🎭 I attend weekly acting classes
 
 ### Spotify Playing 🎧
 
@@ -19,7 +21,9 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+
 [<img align="left" alt="Sean McMahon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
@@ -41,13 +45,14 @@
 
 ---
 
-
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr -->
+
 [linkedin]: https://www.linkedin.com/in/sean-mcmahon-profile/
+
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
