@@ -2,6 +2,19 @@
 
 ### Hi, I'm Sean 👋
 
+## My Favourite Projects
+
+- 🐱 [The Inner Purr](https://inner-purr.herokuapp.com/) is an e-commerce project built to help a local charity which I am involved with
+- 🎨 [Sean Mc](https://sean-mc-mahon.github.io/ms2-seanmcmahon-digital-design/) is a showcase for my interest in all forms of digital design
+- 🍰 During Lockdown I've taken an interest in baking resulting in [McTastic Recipes](https://mctastic-recipes.herokuapp.com/)
+- 🌳 I was inspired by my work as a tour guide to create a [virtual tour of Ireland](https://sean-mc-mahon.github.io/ms1virtualireland/index.html)
+
+## Hackathons
+
+- As part of my studies with [Code Institute](https://codeinstitute.net/) I've taken part in a number of Hackathons:
+- 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.
+- 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know
+
 ## I'm a Front-End Developer and Digital Designer
 
 - 🔭 I recently completed Code Institute's Full-Stack Diploma in Software Development
