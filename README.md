@@ -1,4 +1,4 @@
-<img src="https://github.com/Sean-Mc-Mahon/Sean-Mc-Mahon/blob/master/seanmc.gif" alt="sean mc">
+<img src="https://github.com/Sean-Mc-Mahon/Sean-Mc-Mahon/blob/master/seanmc-webdev.gif" alt="sean mc">
 
 ## My Favourite Projects
 
