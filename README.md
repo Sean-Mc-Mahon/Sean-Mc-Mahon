@@ -1,7 +1,5 @@
 <img src="https://github.com/Sean-Mc-Mahon/Sean-Mc-Mahon/blob/master/seanmc.gif" alt="sean mc">
 
-## Hi, I'm Sean, Front-End Web-Dev 👋
-
 ## My Favourite Projects
 
 - 🐱 [The Inner Purr](https://inner-purr.herokuapp.com/) is an e-commerce project built to help a local charity which I am involved with
