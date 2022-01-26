@@ -1,5 +1,9 @@
 <img src="https://github.com/Sean-Mc-Mahon/Sean-Mc-Mahon/blob/master/seanmc-webdev.gif" alt="sean mc">
 
+## Check out my Portfolio
+
+- [Sean Mc] (https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/)
+
 ## My Favourite Projects
 
 - 🐱 [The Inner Purr](https://inner-purr.herokuapp.com/) is an e-commerce project built to help a local charity which I am involved with
