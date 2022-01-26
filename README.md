@@ -2,7 +2,7 @@
 
 ## Check out my Portfolio
 
-- [Sean Mc] (https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/)
+- [Sean Mc](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/)
 
 ## My Favourite Projects
 
