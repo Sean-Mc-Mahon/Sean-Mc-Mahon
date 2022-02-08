@@ -14,8 +14,8 @@
 ## Hackathons
 
 - As part of my studies with [Code Institute](https://codeinstitute.net/) I've taken part in a number of Hackathons:
-- 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.
-- 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know
+- 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.[ (Repo)](https://light-up-pride.herokuapp.com/)
+- 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know.[ (Repo)](https://sean-mc-mahon.github.io/ask_paddy/)
 
 ## Interests, both tech and otherwise
 
