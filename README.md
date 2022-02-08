@@ -2,7 +2,7 @@
 
 ## Check out my Portfolio
 
-- [Sean Mc](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/) is built using React.[ (Repo)](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/)
+- [Sean Mc](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/) is built using React.[ (Repo)](https://github.com/Sean-Mc-Mahon/Sean_McMahon-Portfolio)
 
 ## My Favourite Projects
 
@@ -14,8 +14,8 @@
 ## Hackathons
 
 - As part of my studies with [Code Institute](https://codeinstitute.net/) I've taken part in a number of Hackathons:
-- 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.[ (Repo)](https://light-up-pride.herokuapp.com/)
-- 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know.[ (Repo)](https://sean-mc-mahon.github.io/ask_paddy/)
+- 🌈 [Light Up](https://light-up-pride.herokuapp.com/) is an app which enables rural members of the LGBTQ community to light up rural Ireland with events and profiles to show other members of the community that they are not alone.[ (Repo)](https://github.com/timmorrisdev/light-up)
+- 🙏 [Ask Paddy](https://sean-mc-mahon.github.io/ask_paddy/) is an app which allows a user to ask Saint Patrick anything they've ever watned to know.[ (Repo)](https://github.com/Sean-Mc-Mahon/ask_paddy)
 
 ## Interests, both tech and otherwise
 
