@@ -2,14 +2,14 @@
 
 ## Check out my Portfolio
 
-- [Sean Mc](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/) is built using React.
+- [Sean Mc](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/) is built using React.[Repo](https://sean-mc-mahon.github.io/Sean_McMahon-Portfolio/)
 
 ## My Favourite Projects
 
-- 🐱 [The Inner Purr](https://inner-purr.herokuapp.com/) is an e-commerce project built to help a local charity which I am involved with
-- 🎨 [Sean Mc](https://sean-mc-mahon.github.io/ms2-seanmcmahon-digital-design/) is a showcase for my interest in all forms of digital design
-- 🍰 During Lockdown I've taken an interest in baking resulting in [McTastic Recipes](https://mctastic-recipes.herokuapp.com/)
-- 🌳 I was inspired by my work as a tour guide to create a [virtual tour of Ireland](https://sean-mc-mahon.github.io/ms1virtualireland/index.html)
+- 🐱 [The Inner Purr](https://inner-purr.herokuapp.com/) is an e-commerce project built to help a local charity which I am involved with.[Repo](https://github.com/Sean-Mc-Mahon/inner-purr)
+- 🎨 [Sean Mc](https://sean-mc-mahon.github.io/ms2-seanmcmahon-digital-design/) is a showcase for my interest in all forms of digital design.[Repo](https://github.com/Sean-Mc-Mahon/McTasticRecipes)
+- 🍰 During Lockdown I've taken an interest in baking resulting in [McTastic Recipes](https://mctastic-recipes.herokuapp.com/).[Repo](https://github.com/Sean-Mc-Mahon/ms2-seanmcmahon-digital-design)
+- 🌳 I was inspired by my work as a tour guide to create a [virtual tour of Ireland](https://sean-mc-mahon.github.io/ms1virtualireland/index.html).[Repo](https://github.com/Sean-Mc-Mahon/ms1virtualireland)
 
 ## Hackathons
 
